@@ -10,4 +10,6 @@ Credit to these is Joaquim Baeta, but no real need for attribution, just use or 
 
 Dave Gandy  
 Website: http://fontawesome.io/get-started/  
-You can find it on GitHub: https://github.com/FortAwesome/Font-Awesome
+You can find it on GitHub: https://github.com/FortAwesome/Font-Awesome  
+
+![](showcase/showcase.png)
